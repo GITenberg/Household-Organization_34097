@@ -1,0 +1,28 @@
+_repo: Household-Organization_34097
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caddy, Florence
+    alias: Caddy, Mrs.
+    birthdate: 1837
+    gutenberg_agent_id: '36767'
+    url: http://www.gutenberg.org/2009/agents/36767
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2010-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34097'
+  lccn: 07028301
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Home economics'
+- !lcc 'TX'
+title: Household Organization
+url: http://www.gutenberg.org/ebooks/34097
